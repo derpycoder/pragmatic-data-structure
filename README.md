@@ -19,4 +19,4 @@
 ### Cheat Sheet
 
 #### Array
-- CRUD
+- Basics

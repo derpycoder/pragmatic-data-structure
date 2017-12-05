@@ -19,4 +19,4 @@
 ### Cheat Sheet
 
 #### Array
-- Basics
+- [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/basics.ipynb)

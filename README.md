@@ -22,3 +22,4 @@
 - [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/basics.ipynb)
 - [Reverse](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/reverse.ipynb)
 - [Rotate](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/rotate.ipynb)
+- [Search](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/search.ipynb)

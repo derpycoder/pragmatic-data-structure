@@ -23,3 +23,8 @@
 - [Reverse](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/reverse.ipynb)
 - [Rotate](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/rotate.ipynb)
 - [Search](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/search.ipynb)
+- [Leaders](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/leaders.ipynb)
+- [Majority Element](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/majority-element.ipynb)
+- [Odd Occurence](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/odd-occurence.ipynb)
+- [Missing Number](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/missing-number.ipynb)
+- [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/continuous-subarray.ipynb)

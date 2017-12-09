@@ -27,4 +27,4 @@
 - [Majority Element](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/majority-element.ipynb)
 - [Odd Occurence](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/odd-occurence.ipynb)
 - [Missing Number](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/missing-number.ipynb)
-- [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/continuous-subarray.ipynb)
+- [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/contiguous-subarray.ipynb)

@@ -28,3 +28,4 @@
 - [Odd Occurence](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/odd-occurence.ipynb)
 - [Missing Number](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/missing-number.ipynb)
 - [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/contiguous-subarray.ipynb)
+- [Merge Sorted Array](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/merge-sorted-arrays.ipynb)

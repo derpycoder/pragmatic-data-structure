@@ -24,8 +24,8 @@
 - [Rotate](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/rotate.ipynb)
 - [Search](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/search.ipynb)
 - [Leaders](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/leaders.ipynb)
-- [Majority Element](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/majority-element.ipynb)
+- [Majority Element](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/majority-element.ipynb) - Moore's Voting Algo
 - [Odd Occurence](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/odd-occurence.ipynb)
 - [Missing Number](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/missing-number.ipynb)
-- [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/contiguous-subarray.ipynb)
+- [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/contiguous-subarray.ipynb) - Kadane's Algo
 - [Merge Sorted Array](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/merge-sorted-arrays.ipynb)

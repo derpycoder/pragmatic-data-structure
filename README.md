@@ -29,4 +29,7 @@
 - [Missing Number](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/missing-number.ipynb)
 - [Contiguous Subarray](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/contiguous-subarray.ipynb) - Kadane's Algo
 - [Merge Sorted Arrays](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/merge-sorted-arrays.ipynb)
-- [Median of Sorted Arrays](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/median-sorted-arrays.ipynb)
+- [Median of Sorted Arrays](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/array/median-sorted-arrays.ipynb)  
+
+#### Linked List
+- [Basics](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-data-structure/blob/master/linked-list/basics.ipynb)
